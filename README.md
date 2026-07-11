@@ -1,2 +1,17 @@
 # Amazon-Sales-Dashboard
-Interactive Amazon Sales Dashboard built using Power BI.
+
+## Project Overview
+This Power BI dashboard analyzes Amazon Sales data to provide insightes into sales performance and order trends.
+
+## Tools Used
+- Power BI
+- Power Query
+
+## Features
+- KPI Cards
+- Interactive Charts
+- Slicers
+- Reset Filter (Bookmark)
+
+## Dashboard Preview
+! Amazon Sales Dashboard.png
