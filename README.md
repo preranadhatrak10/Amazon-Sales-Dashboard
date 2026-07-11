@@ -13,5 +13,7 @@ This Power BI dashboard analyzes Amazon Sales data to provide insightes into sal
 - Slicers
 - Reset Filter (Bookmark)
 
+</> Markdown
+
 ## Dashboard Preview
 ! Amazon Sales Dashboard.png
