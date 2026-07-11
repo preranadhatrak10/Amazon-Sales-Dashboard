@@ -16,4 +16,4 @@ This Power BI dashboard analyzes Amazon Sales data to provide insightes into sal
 </> Markdown
 
 ## Dashboard Preview
-! [Dsahboard Screenshot](Amazon Sales Dashboard.png)
+! [Dsahboard Screenshot](Amazon  Sales  Dashboard.png)
